@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Home</title>
+     <link rel="stylesheet"  href="style/Styles.css">
+</head>
+<body>
+      <header>
+         <h1>Game Developer</h1>
+      </header>
+     <nav>
+         <a href="Introductie tot.html">Introductie</a>
+         <a href="Beroepsprofiel van een game developer.html">Beroepsprofiel</a>
+         <a href="Werkompeginv van game developer.html">Werkomgeving</a>
+         <a href="Belangrijke technologie en trend in game developer.html">Technologie en Trends</a>
+         <a href="Extra Informatie.html">Extra Informatie</a>
+     </nav>
+     
+ </body>
+ 
+ </html>
+
+ header {
+    background-color: #3c4748;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  body {
+    background-color: #171a22;
+    
+    
+  }
+  nav a {
+    align-items: center;
+    background-color: #1f2833;
+    color: white;
+    padding: 10px 30px;
+    margin: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    
+  }
+
+  <link rel="stylesheet"  href="style/Styles.css">
