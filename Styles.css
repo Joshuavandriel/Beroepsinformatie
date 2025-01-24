@@ -1,0 +1,163 @@
+/*dit defineert de header en al de verschillende dingen dat het doet zoals de achtergrond kluer, de kleur for the text, de border voor rond de header*/ 
+header {
+  background-color: #1f2833;
+  padding: 5px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  border: 10px solid #116466;
+}
+/*hier defineert alleen de achtergrond kleur*/ 
+body {
+  background-color: #11151b;
+}
+/* hier defineert alleen waar de text moet< dus in het midden*/ 
+nav {
+  text-align: center; 
+}
+/* hier defineer hoe de buttons voor de paginas er uit gaat ziet*/ 
+nav a {
+  text-align: center;
+  background-color: #1f2833;
+  color: white;
+  padding: 20px 40px;
+  margin: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* dit is voor hoe ik de photo wil laten zien*/ 
+img {
+  border-image: round;
+  display: block; 
+  margin: 0 auto; 
+  border: 10px solid #1f2833;
+  border-radius: 5px;
+}
+/*hier is de andere image/de lijn tussen de alineas*/ 
+#imgINT{
+  display: block; 
+  display: block;
+  border: 10px solid #1f2833;
+  border-radius: 5px;
+  height: 2mm;
+  width: 378mm;
+}
+/* hier is gewoon de photos maar in andere maten*/ 
+#imgnormal{
+  float: left;
+  display: block; 
+  display: block;
+  border: 10px solid #1f2833;
+  border-radius: 5px;
+  height: 100mm;
+  width: 150mm;
+}
+
+/*hier is hoe ik de article mooie kan maken dus, hoe groot het moet zijn, achtergrondskleur*/ 
+/*het is hetzelfde bij elke article behalve de hoogte van de article*/ 
+#articlehome{
+  float: left;
+  padding: 20px;
+  background-color: #11151b;
+  border: 10px solid #116466;
+  width: 382mm;
+  height: 1000px; 
+}
+
+#articleprofiel{
+  float: left;
+  padding: 20px;
+  background-color: #11151b;
+  border: 10px solid #116466;
+  width: 382mm;
+  height: 1860px; 
+}
+
+#articlewerkomgeving {
+  float: left;
+  padding: 20px;
+  background-color: #11151b;
+  border: 10px solid #116466;
+  width: 382mm;
+  height: 1300px; 
+}
+
+#articletechnologie{
+  float: left;
+  padding: 20px;
+  background-color: #11151b;
+  border: 10px solid #116466;
+  width: 382mm;
+  height: 900px;
+}
+
+#articleextra{
+  float: left;
+  padding: 20px;
+  background-color: #11151b;
+  border: 10px solid #116466;
+  width: 382mm;
+  height: 1300px;
+}
+
+
+article {
+  float: left;
+  padding: 20px;
+  background-color: #11151b;
+  border: 10px solid #116466;
+  width: 382mm;
+  height: 1600px; 
+}
+
+#myNav{
+  text-align: left;
+  background-color: #1f2833;
+  color: white;
+  padding: 20px 40px;
+  margin: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/*dit zijn id's voor de unorderd list, orderd list, de paragraph, de header*/ 
+#myH1{
+  text-align: left;
+  color: white;
+}
+
+ol{
+  text-align: left;
+  color: white;
+}
+
+ul{ 
+  text-align: left;
+  color: white;
+}
+
+#myP{
+  text-align: left;
+  color: white;
+}
+
+
+/* hier is de opmaak van de footer*/ 
+footer{
+  background-color: #1f2833;
+  padding: 5px;
+  text-align: center;
+  font-size: 25px;
+  color: #1f2833;
+  border: 10px solid #116466;
+}
+
+
+
+
+
